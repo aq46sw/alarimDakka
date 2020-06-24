@@ -1,0 +1,9 @@
+C:\Users\pc\source\repos\alarimDakka\alarimDakka\bin\Debug\alarimDakka.exe.config
+C:\Users\pc\source\repos\alarimDakka\alarimDakka\bin\Debug\alarimDakka.exe
+C:\Users\pc\source\repos\alarimDakka\alarimDakka\bin\Debug\alarimDakka.pdb
+C:\Users\pc\source\repos\alarimDakka\alarimDakka\obj\Debug\alarimDakka.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\alarimDakka\alarimDakka\obj\Debug\alarimDakka.Form1.resources
+C:\Users\pc\source\repos\alarimDakka\alarimDakka\obj\Debug\alarimDakka.Properties.Resources.resources
+C:\Users\pc\source\repos\alarimDakka\alarimDakka\obj\Debug\alarimDakka.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\alarimDakka\alarimDakka\obj\Debug\alarimDakka.exe
+C:\Users\pc\source\repos\alarimDakka\alarimDakka\obj\Debug\alarimDakka.pdb
